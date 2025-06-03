@@ -9,3 +9,5 @@ Using I(0) = 2, 5, 10, and 100 and S(0) = n-I(0), resolve the system and interpr
 **Project Description**
 
 We plan to investigate the spread patterns of this disease using a SIR model - the most practical model to adapt when dealing with an epidemic. Our model will show the relationship between susceptible, infected, and recovered individuals, noting a fixed population of n=1000, transmission rate of b=0.002, and a recovery rate of a=0.7. We will solve the system of differential equations that define the spread of this modern flu for different initial infection levels: I(0)=2, 5, 10, and 100, and then analyze the behavior of each curve over time. By analyzing each curve’s behavior, we are going to be looking at the most people infected by the disease at once, when that peak occurred, the duration of the flu outbreak, and the total number of people who recovered. Lastly, we will validate our results using real world data about flu outbreaks, and the recovery and transmission rates associated with them.
+
+https://docs.google.com/document/d/e/2PACX-1vTfCvqBObzDToEakYVD3eJ9fFpS1sJwgZ-1IdF3k2A7CfovtE5ppaNtzpqEwCTfxx5MvOCUpXClls_J/pub
